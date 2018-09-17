@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>ByronP</Authors>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Company>Coinigy Inc.</Company>
+    <Description>A cross platform console enhancement library for .NET NetStandard core.</Description>
+    <Copyright>Copyright 2017 2018 Coinigy Inc.</Copyright>
+    <PackageLicenseUrl>https://raw.githubusercontent.com/Coinigy/OutputConsole/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/coinigy/OutputConsole</PackageProjectUrl>
+    <PackageIconUrl>https://raw.githubusercontent.com/Coinigy/OutputConsole/master/icon.ico</PackageIconUrl>
+    <RepositoryUrl>https://github.com/coinigy/OutputConsole</RepositoryUrl>
+    <PackageTags>console, output, formatting, color</PackageTags>
+    <PackageReleaseNotes>See git for list of changes.</PackageReleaseNotes>
+  </PropertyGroup>
+
+</Project>
