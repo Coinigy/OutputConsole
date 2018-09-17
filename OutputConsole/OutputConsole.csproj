@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
@@ -9,8 +9,9 @@
     <Copyright>Copyright 2017 2018 Coinigy Inc.</Copyright>
     <PackageLicenseUrl>https://raw.githubusercontent.com/Coinigy/OutputConsole/master/LICENSE</PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/coinigy/OutputConsole</PackageProjectUrl>
-    <PackageIconUrl>https://raw.githubusercontent.com/Coinigy/OutputConsole/master/icon.ico</PackageIconUrl>
+    <PackageIconUrl>https://raw.githubusercontent.com/Coinigy/OutputConsole/master/PWSIcon.ico</PackageIconUrl>
     <RepositoryUrl>https://github.com/coinigy/OutputConsole</RepositoryUrl>
+    <Title>A cross platform console enhancement library for .NET NetStandard core.</Title>
     <PackageTags>console, output, formatting, color</PackageTags>
     <PackageReleaseNotes>See git for list of changes.</PackageReleaseNotes>
   </PropertyGroup>
